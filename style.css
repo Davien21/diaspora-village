@@ -8863,6 +8863,28 @@ input[type="submit"] {
 .logo {
   max-width: 300px;
 }
+
+@media screen and (max-width:399px) {
+  h2 {
+      font-size: 22px;
+  }
+}
+@media screen and (min-width:400px) {
+  
+}
+@media screen and (min-width:576px) {
+  h2 {
+      font-size: 30px;
+  }
+}
+@media screen and (min-width:768px) {
+
+}
+@media screen and (min-width:992px) {
+  
+} 
+@media screen and (min-width:1200px) {
+}
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .subs--4 .fd__subscribe__area {
     padding: 0; } }
