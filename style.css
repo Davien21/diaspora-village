@@ -8841,7 +8841,7 @@ input[type="submit"] {
 }
 
 .d-b-green {
-  background-color: #51AA1B
+  background-color: #51AA1B !important;
 }
 .text-shadow {
   text-shadow: 2px 2px 4px #333;
@@ -8870,7 +8870,7 @@ input[type="submit"] {
   }
 }
 @media screen and (min-width:400px) {
-  
+
 }
 @media screen and (min-width:576px) {
   h2 {
